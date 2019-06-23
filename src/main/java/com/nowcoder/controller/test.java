@@ -1,4 +1,4 @@
 package com.nowcoder.controller;
 
-public class testAdd {
+public class test {
 }
